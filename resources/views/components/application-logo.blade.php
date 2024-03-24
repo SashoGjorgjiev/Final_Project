@@ -1,0 +1,1 @@
+<img src="{{ asset('assets/images/igraliste.png') }}" class="w-30" alt="">
